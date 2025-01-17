@@ -1,0 +1,6 @@
+This is a playground lab to test mysqldb on docker
+
+IMG: bitnami/mysql:latest
+GIT: https://github.com/bitnami/containers/tree/main/bitnami/mysql
+DOC: 
+
